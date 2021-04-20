@@ -14,14 +14,15 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbd40492-2342-46cc-a128-63331cc9daa1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1nmceXEF0qrlN8KWdOZJYDZZjD2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -90,6 +92,7 @@
       <workItem from="1614094029072" duration="16000" />
       <workItem from="1618644343811" duration="1181000" />
       <workItem from="1618645548198" duration="1091000" />
+      <workItem from="1618909189072" duration="576000" />
     </task>
     <servers />
   </component>
@@ -99,6 +102,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -107,7 +135,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="dev" />
                       </list>
                     </value>
                   </entry>
@@ -115,8 +143,9 @@
               </option>
               <option name="COLUMN_WIDTH">
                 <map>
-                  <entry key="2" value="296" />
-                  <entry key="3" value="306" />
+                  <entry key="2" value="199" />
+                  <entry key="3" value="163" />
+                  <entry key="4" value="58" />
                 </map>
               </option>
             </State>
@@ -124,17 +153,27 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1440" y="563" width="2376" height="1216" key="DiffContextDialog" timestamp="1618646647700">
-      <screen x="1920" y="0" width="2560" height="1400" />
+    <state x="-360" y="418" width="1782" height="904" key="DiffContextDialog" timestamp="1618909180907">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="-360" y="418" width="1782" height="904" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618909180907" />
     <state x="1440" y="563" width="2376" height="1216" key="DiffContextDialog/1920.0.2560.1400/0.0.1920.1040@1920.0.2560.1400" timestamp="1618646647700" />
     <state x="2603" y="275" key="IDE.errors.dialog" timestamp="1618645453518">
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
     <state x="512" y="204" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612000526772" />
     <state x="2603" y="275" key="IDE.errors.dialog/1920.0.2560.1400/0.0.1920.1040@1920.0.2560.1400" timestamp="1618645453518" />
+    <state x="720" y="253" width="672" height="678" key="search.everywhere.popup" timestamp="1618890909779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="720" y="253" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618890909779" />
   </component>
 </project>
